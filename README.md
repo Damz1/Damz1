@@ -2,6 +2,8 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Damz1&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
 
+Languages and Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 
 
 <!--
