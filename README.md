@@ -4,16 +4,6 @@
 
 I'm David Maizil, a junior full-stack web developer. I recently finished the Northcoders Software Development Bootcamp and I'm eager to start my career in tech.
 
-## Technical Skills
-
-- JavaScript data types, functions, control flow, and object-oriented programming.
-- Test-driven development.
-- Node.js (back-end applications).
-- Familiarity with asynchronous programming and APIs.
-- SQL and the ability to work with databases using Express.
-- React and related concepts; Virtual DOM and JSX.
-- HTML and CSS.
-- UX design principles and best practices.
 
 ## Languages and Tools
 
@@ -31,12 +21,10 @@ I'm David Maizil, a junior full-stack web developer. I recently finished the Nor
 
 ## Get in Touch
 
-- [Email](mailto:example@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/example)
-- [Twitter](https://twitter.com/example)
-
+- [Email](mailto:davidmaizil@gmail.com)
+<!-- - [LinkedIn](https://www.linkedin.com/in/example)
+ -->
 Feel free to contact me for any inquiries or feedback!
-
 
 <!--
 **Damz1/Damz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
