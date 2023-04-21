@@ -7,13 +7,26 @@ I'm David Maizil, a junior full-stack web developer. I recently finished the Nor
 
 ## Languages and Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-gray?style=flat-square&logo=express&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white)
+
+## Skills, tools, etc
+
+![Semantic HTML](https://img.shields.io/badge/Semantic_HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&color=F7DF1E&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amparoamparo&hide_progress=false&theme=swift&layout=compact)](#)
+
+## Fun facts
+
+[![Vegan](https://img.shields.io/badge/🌱-VEGAN-green.svg?style=for-the-badge&labelColor=f6f8fa)](https://www.vegansociety.com/go-vegan)
+[![Made in Argentina](https://img.shields.io/badge/MADE_IN-ARGENTINA-lightblue.svg?style=for-the-badge&labelColor=f6f8fa)](https://en.wikipedia.org/wiki/Argentina)
 
 ## GitHub Stats
 
