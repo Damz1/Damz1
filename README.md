@@ -18,16 +18,12 @@ I'm David Maizil, a junior full-stack web developer. I recently finished the Nor
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amparoamparo&hide_progress=false&theme=swift&layout=compact)](#)
-
-## Fun facts
-
-
-[![Made in France](https://img.shields.io/badge/MADE_IN-France-lightblue.svg?style=for-the-badge&labelColor=f6f8fa)](https://en.wikipedia.org/wiki/Argentina)
-
 ## GitHub Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Damz1&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=2484BD&text_color=333333&theme=radical" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amparoamparo&hide_progress=false&theme=swift&layout=compact)](#)
+
 
 
 
