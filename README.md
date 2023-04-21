@@ -22,7 +22,7 @@ I'm David Maizil, a junior full-stack web developer. I recently finished the Nor
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Damz1&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=2484BD&text_color=333333&theme=radical" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Damz1&hide_progress=false&theme=swift&layout=compact)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Damz1&hide_progress=false&layout=compact&theme=swift&bg_color=ffffff&title_color=2484BD&text_color=333333)](#)
 
 
 
