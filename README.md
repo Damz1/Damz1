@@ -17,7 +17,7 @@ I'm David Maizil, a junior full-stack web developer. I recently finished the Nor
 
 ## GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Damz1&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=ff6e96&text_color=333333&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Damz1&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=2484BD&text_color=333333&theme=radical" />
 
 
 
