@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Damz1&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
+[<img align="center" src="https://github-readme-stats.vercel.app/api?username=Damz1&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />](https://github.com/Damz1?tab=overview&from=[YEAR]-01-01&to=[YEAR]-12-31
+)
 
 
 <!--
