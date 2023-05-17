@@ -3,8 +3,8 @@
 ## About Me
 
 I'm David Maizil, a junior full-stack web developer. 
-<!-- I recently finished the Northcoders Software Development Bootcamp and I'm eager to start my career in tech.
- -->
+I recently finished the Northcoders Software Development Bootcamp and I'm Looking forward to start my career in tech.
+
 
 ## Languages and Tools
 
