@@ -40,7 +40,7 @@ I recently finished the Northcoders Software Development Bootcamp and I'm lookin
 
 <h3 align="center">Let's Connect:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/david-maizil/" target="blank" />
+<a href="https://www.linkedin.com/in/david-maizil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="David_maizil_linkedin" height="30" width="40" /></a>
 </p>
 
 Feel free to contact me for any inquiries or feedback!
