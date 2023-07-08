@@ -35,15 +35,15 @@ I recently finished the Northcoders Software Development Bootcamp and I'm lookin
 ## Get in Touch
 
 <p>
-  <a href="mailto:davidmaizil@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.png" alt="Email" height="30" width="30">
-  </a>
+  <a href="mailto:davidmaizil@gmail.com" target="_blank">Email: davidmaizil@gmail.com</a>
+  <br>
   <a href="https://www.linkedin.com/in/david-maizil/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
   </a>
 </p>
 
 Feel free to contact me for any inquiries or feedback!
+
 
 
 
