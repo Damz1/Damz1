@@ -37,6 +37,12 @@ I recently finished the Northcoders Software Development Bootcamp and I'm lookin
 - [Email](mailto:davidmaizil@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/david-maizil/)
 
+
+<h3 align="center">Let's Connect:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/david-maizil/" target="blank" />
+</p>
+
 Feel free to contact me for any inquiries or feedback!
 
 <!--
