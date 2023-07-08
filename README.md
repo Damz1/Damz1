@@ -34,16 +34,17 @@ I recently finished the Northcoders Software Development Bootcamp and I'm lookin
 
 ## Get in Touch
 
-- [Email](mailto:davidmaizil@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/david-maizil/)
-
-
-<h3 align="center">Let's Connect:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/david-maizil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="David_maizil_linkedin" height="30" width="40" /></a>
+  <a href="mailto:davidmaizil@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40">
+  </a>
+  <a href="https://www.linkedin.com/in/david-maizil/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
+  </a>
 </p>
 
 Feel free to contact me for any inquiries or feedback!
+
 
 <!--
 **Damz1/Damz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
