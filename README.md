@@ -20,9 +20,9 @@ I recently finished the Northcoders Software Development Bootcamp and I'm lookin
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+<!--
 ## GitHub Stats
 
-<!--
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Damz1&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=2484BD&text_color=333333&theme=radical" />
 -->
 
