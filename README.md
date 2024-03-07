@@ -26,8 +26,9 @@ I recently finished the Northcoders Software Development Bootcamp and I'm lookin
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Damz1&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=2484BD&text_color=333333&theme=radical" />
 -->
 
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Damz1&hide_progress=false&layout=compact&theme=swift&bg_color=ffffff&title_color=2484BD&text_color=333333)](#)
+>
 
 
 
@@ -35,7 +36,7 @@ I recently finished the Northcoders Software Development Bootcamp and I'm lookin
 ## Get in Touch
 
 <p>
-  <a href="mailto:davidmaizil200@gmail.com" target="_blank">davidmaizil@gmail.com</a>
+  <a href="mailto:davidmaizil200@gmail.com" target="_blank">davidmaizil200@gmail.com</a>
   <br>
   <a href="https://www.linkedin.com/in/david-maizil/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
